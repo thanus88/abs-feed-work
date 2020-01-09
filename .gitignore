@@ -1,0 +1,4 @@
+node_modules/
+package-lock.json
+.expo/packager-info.json
+.expo/settings.json
